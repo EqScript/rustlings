@@ -13,7 +13,6 @@ fn main() {
     // You can optionally experiment here.
     picky_eater("Jeans");
     picky_eater("strawberry");
-
 }
 
 // TODO: Read the tests to understand the desired behavior.
